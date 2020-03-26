@@ -1,0 +1,5 @@
+this is sample proj
+use git init in cmd in this dir
+stash (commit lvl 1) - git add *
+commit the files in the stash
+push

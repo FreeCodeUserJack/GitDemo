@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-03-20T17:09:17 EDT" name="Suite" finished-at="2020-03-20T17:09:17 EDT" duration-ms="34">
+    <groups>
+    </groups>
+    <test started-at="2020-03-20T17:09:17 EDT" name="Test" finished-at="2020-03-20T17:09:17 EDT" duration-ms="34">
+      <class name="MavenSeleniumProj.RestAPITest">
+        <test-method signature="twitterDelete()[pri:0, instance:MavenSeleniumProj.RestAPITest@1a052a00]" started-at="2020-03-20T17:09:17 EDT" name="twitterDelete" finished-at="2020-03-20T17:09:17 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- twitterDelete -->
+        <test-method signature="postJIRA()[pri:0, instance:MavenSeleniumProj.RestAPITest@1a052a00]" started-at="2020-03-20T17:09:17 EDT" name="postJIRA" finished-at="2020-03-20T17:09:17 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJIRA -->
+      </class> <!-- MavenSeleniumProj.RestAPITest -->
+      <class name="MavenSeleniumProj.SeleniumTest">
+        <test-method signature="BrowserAutomation()[pri:0, instance:MavenSeleniumProj.SeleniumTest@770c2e6b]" started-at="2020-03-20T17:09:17 EDT" name="BrowserAutomation" finished-at="2020-03-20T17:09:17 EDT" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method signature="elemenestUI()[pri:0, instance:MavenSeleniumProj.SeleniumTest@770c2e6b]" started-at="2020-03-20T17:09:17 EDT" name="elemenestUI" finished-at="2020-03-20T17:09:17 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elemenestUI -->
+      </class> <!-- MavenSeleniumProj.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
