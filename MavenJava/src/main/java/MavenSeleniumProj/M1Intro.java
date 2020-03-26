@@ -47,6 +47,7 @@ public class M1Intro {
 		// MAKE SURE "Test" is last word in test dir file names (maven algorithm to find tests to run)
 		
 		System.out.println("Git demo");
+		System.out.println("This is dev branch");
 	}
 
 }
