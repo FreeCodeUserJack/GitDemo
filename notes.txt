@@ -19,3 +19,4 @@ git pull origin develop // to get develop branch
 git checkout develop // witch branch
 
 switch to master branch, git merge develope // merge develop to master (curr branch)
+fao;ejwfaefjoij
