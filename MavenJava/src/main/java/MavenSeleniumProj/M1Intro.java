@@ -45,7 +45,8 @@ public class M1Intro {
 				// it will read all dependencies, go to .m2 folder and see if jars are present (not directly to mvnrepository.org)
 				// if not in .m2 dir, then it will download the jars
 		// MAKE SURE "Test" is last word in test dir file names (maven algorithm to find tests to run)
-				
+		
+		System.out.println("Git demo");
 	}
 
 }

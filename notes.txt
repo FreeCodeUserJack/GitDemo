@@ -1,5 +1,12 @@
 this is sample proj
 use git init in cmd in this dir
 stash (commit lvl 1) - git add *
-commit the files in the stash
-push
+	git status to see changes
+commit the files in the stash -> git commit -m "comment here"
+git remote add origin https://github.com/FreeCodeUserJack/GitDemo.git
+git push origin master  // master branch -u would set "upstream" central location
+
+make a change, then go to dir in cmd
+
+git clone link_to_repository // get "fresh" repository
+git pull // get updates after first clone
